@@ -1,0 +1,21 @@
+course_id,course_title,category,skills
+U001,Intro to Python,Programming,"Python, Coding"
+U002,Machine Learning,AI,"Python, ML"
+U003,Data Science with Python,Data Science,"Python, Data Analysis"
+U004,Deep Learning for Beginners,AI,"TensorFlow, Keras"
+U005,AI Projects Made Easy,AI,"Python, AI"
+C001,Web Development Bootcamp,Web Development,"HTML, CSS, JavaScript"
+C002,The Complete JavaScript Course,Web Development,JavaScript
+C003,React - The Complete Guide,Web Development,React
+C004,"Node.js, Express, MongoDB & More",Web Development,"Node.js, Express, MongoDB"
+C005,Angular - The Complete Guide,Web Development,Angular
+D001,SQL for Data Science,Data Science,"SQL, Data Analysis"
+D002,Tableau 2020 A-Z,Data Science,Tableau
+D003,Power BI A-Z,Data Science,"Power BI"
+D004,Data Engineering with Python,Data Science,"Python, Data Engineering"
+D005,The Data Science Course 2021,Data Science,"Python, R, SQL"
+M001,Digital Marketing Masterclass,Marketing,"Social Media Marketing, SEO"
+M002,The Complete SEO Course,Marketing,SEO
+M003,Google Ads for Beginners,Marketing,"Google Ads"
+M004,Social Media Marketing A-Z,Marketing,"Social Media Marketing"
+M005,Branding & Marketing for Startups,Marketing,"Branding, Marketing Strategy"
