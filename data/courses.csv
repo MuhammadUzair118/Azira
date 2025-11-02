@@ -1,0 +1,11 @@
+course_id,course_title,course_description,category,skills
+CS101,Introduction to Computer Science,"A foundational course on computer science principles.",Computer Science,"Algorithms, Data Structures"
+PY201,Python for Beginners,"An introductory course to Python programming.",Programming,"Python, Programming"
+DS301,Data Science with Python,"A comprehensive guide to data science using Python.",Data Science,"Pandas, NumPy, Scikit-learn"
+WD401,Web Development Fundamentals,"Learn the basics of web development, including HTML, CSS, and JavaScript.",Web Development,"HTML, CSS, JavaScript"
+ML501,Machine Learning Essentials,"An essential course on machine learning concepts and algorithms.",Machine Learning,"Supervised Learning, Unsupervised Learning"
+AI601,Advanced AI Concepts,"Explore advanced topics in artificial intelligence.",Artificial Intelligence,"Deep Learning, Neural Networks"
+CS102,Data Structures in Python,"A course on fundamental data structures and their implementation in Python.",Computer Science,"Data Structures, Python"
+PY202,Advanced Python Programming,"Take your Python skills to the next level with advanced topics.",Programming,"Advanced Python, Metaprogramming"
+DS302,Big Data Analytics,"Learn how to analyze large datasets with modern big data technologies.",Data Science,"Spark, Hadoop, Big Data"
+WD402,Frontend Development with React,"Build modern user interfaces with the React framework.",Web Development,"React, JavaScript, Frontend"
